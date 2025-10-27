@@ -1,1 +1,1 @@
-https://github.com/JimLitsas/JimLitsas.github.io
+git@github.com/JimLitsas/JimLitsas.io
